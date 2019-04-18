@@ -12,6 +12,8 @@
 
 ## 使用方法
 
+> 先在shell里npm install
+
 1. 解包后的png和txt放入根目录
 
 ![avatar](ScreenShoot/1.png)
