@@ -12,7 +12,7 @@
 
 ## 使用方法
 
-> 先在shell里npm install
+> npm install应该无所谓 没有用依赖
 
 1. 解包后的png和txt放入根目录
 
